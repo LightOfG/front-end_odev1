@@ -1,0 +1,16 @@
+.text-red{
+    color: red;
+}
+.font-size-small{
+    font-size: 20px;
+}
+#email{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#italic{
+    font-style: italic;
+}
+.background-color{
+    background-color: yellow;
+}
